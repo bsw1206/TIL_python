@@ -15,3 +15,29 @@ for tc in range(1, T + 1):
                 min_diff = min(min_diff, sum_height - B)
 
     print(f'#{tc} {min_diff}') 
+
+
+
+###################################################################################
+
+def dfs(i, height):
+    if sum > height:
+        return True
+    if i > N:
+        return
+    
+
+
+
+
+
+
+
+
+
+
+
+T = int(input())
+for tc in range(1, T + 1):
+    N, B = map(int, input().split())
+    height = list(map(int, input().split()))

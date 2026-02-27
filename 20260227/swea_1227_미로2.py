@@ -1,5 +1,6 @@
 import sys
 sys.stdin = open('swea_1227_미로2.txt')
+
 sys.setrecursionlimit(10000)
 def dfs(r, c, finish):
     if (r, c) == finish:
