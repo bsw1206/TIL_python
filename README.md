@@ -20,8 +20,8 @@
 
 | Category | Description | Link |
 | :--- | :--- | :--- |
-| **Django & Web** | SSAFY 관통 프로젝트 및 웹 프레임워크 실습 | [Django](https://github.com/bsw1206/Django) |
-| **Data Engineering** | Kafka, Spark 등 데이터 파이프라인 구축 | [kafka-producer](https://github.com/bsw1206/kafka-producer) , [kafka-consumer](https://github.com/bsw1206/kafka-consumer) |
+| **Django & DB** | SSAFY 관통 프로젝트 및 웹 프레임워크 실습 | [Django & DB](https://github.com/bsw1206/Django) |
+| **Data Engineering** | Kafka, Spark 등 데이터 파이프라인 구축(2026.04.28~) | [kafka-producer](https://github.com/bsw1206/kafka-producer) , [kafka-consumer](https://github.com/bsw1206/kafka-consumer) |
 | **Algorithms** | SW 문제 해결 능력 향상을 위한 알고리즘 풀이 | [Algorithms](https://github.com/bsw1206/Algorithm) |
 
 <br>
