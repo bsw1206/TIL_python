@@ -21,9 +21,10 @@
 | Category | Description | Link |
 | :--- | :--- | :--- |
 | **Django & DB** | SSAFY 관통 프로젝트 및 웹 프레임워크 실습 | [Django & DB](https://github.com/bsw1206/Django) |
-| **Data Engineering** | Kafka, Spark 등 데이터 파이프라인 구축(2026.04.28~) | [kafka-producer](https://github.com/bsw1206/kafka-producer) , [kafka-consumer](https://github.com/bsw1206/kafka-consumer) |
+| **Data Engineering** | Kafka, Spark 등 데이터 파이프라인 구축(2026.04.28~) | [kafka-producer](https://github.com/bsw1206/kafka-producer) , [kafka-consumer](https://github.com/bsw1206/kafka-consumer) , [pyspark-apps](https://github.com/bsw1206/pyspark-apps) |
 | **Algorithms** | SW 문제 해결 능력 향상을 위한 알고리즘 풀이 | [Algorithms](https://github.com/bsw1206/Algorithm) |
 | **SSAFYProject** | SSAFY에서의 추천 서비스를 가진 웹 사이트를 구축하기 위한 관통 프로젝트 모음  | [SSAFYProject](https://github.com/bsw1206/ssafypjt) |
+| **SSAFYProject(Don-worry)** | SSAFY 1학기 최종 프로젝트 개발(2026.05.13~2026.06.26(예정)) | [Don-worry](https://github.com/bsw1206/Don-worry) |
 | **Javascript** | SSAFY 관통프로젝트의 프론트엔드(웹 사이트 구현)에 사용하기 위한 용어(6일 커리큘럼) | [Javascript](https://github.com/bsw1206/Javascript) |
 <br>
 
